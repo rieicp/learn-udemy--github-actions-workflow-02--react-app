@@ -1,0 +1,4 @@
+* @rieicp
+*.js @rieicp
+*.yml @rieicp
+/public/ @rieicp
